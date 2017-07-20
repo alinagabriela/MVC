@@ -1,5 +1,6 @@
 package ro.teamnet.zth.api.database;
 
+
 import java.sql.*;
 
 public class DBManager {

@@ -7,7 +7,7 @@ import sun.reflect.CallerSensitive;
 
 import java.lang.annotation.Target;
 
-@Table(name = "departments")
+@Table(name = "DEPARTMENTS")
 public class Department {
 
     @Id(name = "department_id")
